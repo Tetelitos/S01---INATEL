@@ -69,4 +69,3 @@ equipe.iniciarPartida();
 equipe.listarControladores().forEach(a => console.log(a.codinome));
 
 let agente = new AgenteProtocolo("Teste", "Classic");
-// agente.entrarEmCombate();
