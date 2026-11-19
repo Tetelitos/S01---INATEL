@@ -56,5 +56,3 @@ a.atacar(b);
 
 console.log(a.vida);
 console.log(b.vida);
-
-// console.log(a.#vida);
